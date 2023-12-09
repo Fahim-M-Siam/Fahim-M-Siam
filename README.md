@@ -36,8 +36,8 @@ I am a MERN Stack Developer currently pursuing my Bachelor's degree in Computer 
 
 # Latest Projects
 
-# Ship-Ease (Parcel Management System)
-# Live Link : https://ship-ease-app.web.app
+Ship-Ease (Parcel Management System)
+Live Link : https://ship-ease-app.web.app
 Admin Gmail: admin@gmail.com
 Admin Pass: Fiam3004@
 
@@ -51,13 +51,10 @@ Admin Pass: Fiam3004@
 
 -------------------------------------------------------------------------------------------------------------
 
-# Latest Projects
-
-# TasteHarmony Cafe (Restaurant Management System)
-# Live Link : https://tasteharmony-cafe-client.web.app/
+TasteHarmony Cafe (Restaurant Management System)
+Live Link : https://tasteharmony-cafe-client.web.app/
 
 # Features of Project
-
 - I have Applied Crud Operation in this project.
 - There is a dynamic counting happening in back end for orders and top 6 selling foods.
 - I have applied a search funcionality in this project on all food items page.
@@ -68,3 +65,15 @@ Admin Pass: Fiam3004@
 
 -------------------------------------------------------------------------------------------------------------
 
+Speedy-Wrench-Online-Shop (Brand Management System)
+Live Link : https://speedy-wrench-project.web.app
+
+# Features of Project
+- Here I have used Firebase authentication.
+- In this project without logging in user cannot perform certain activity.
+- I have used MongoDb database and also applied CRUD operation.
+- User can add a product via add product form and the product details will be stored in database collection.
+- User can also Update and Delete any product
+- If user updates any information of any product it will also change in database collection.
+- If user deletes any product it will also deleted from database collection.
+- There is a My cart page also in which user will the product added by them.
