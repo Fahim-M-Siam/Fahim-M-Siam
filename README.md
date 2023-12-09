@@ -33,3 +33,18 @@ I am a MERN Stack Developer currently pursuing my Bachelor's degree in Computer 
 <a href="http://www.github.com/Fahim-M-Siam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahim-M-Siam&stroke=ffffff&background=22272e&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" /></a>
 
 <a href="https://github.com/Fahim-M-Siam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim-M-Siam&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="100%" /></a>
+
+# Latest Projects
+
+Ship-Ease (Parcel Management System)
+# Live Link : https://ship-ease-app.web.app
+Admin Gmail: admin@gmail.com
+Admin Pass: Fiam3004@
+
+# Features of Project
+- Applied Dynamic Dashboard for the first time and it will dynamically be shown to admin, user, delivery man.
+- Used JWT To ensure Authentication make the site more secure
+- Added Location map package
+- Dynamic counter for home components
+- Admin can also see the statistics
+- Applied Pagination
