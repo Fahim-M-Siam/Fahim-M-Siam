@@ -34,7 +34,7 @@ I am a MERN Stack Developer currently pursuing my Bachelor's degree in Computer 
 
 <a href="https://github.com/Fahim-M-Siam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim-M-Siam&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="100%" /></a>
 
-# --------------------------------------------- Latest Projects---------------------------------------------
+# ------------------------------------- Latest Projects-------------------------------------
 
 # Ship-Ease (Parcel Management System)
 Live Link : https://ship-ease-app.web.app
